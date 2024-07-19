@@ -16,7 +16,7 @@ The code and experiments are organized in the `huggingface_textmodels.ipynb` Jup
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/repository.git
+   git clone https://github.com/PynaPavani/repository.git
    cd repository
    ```
 
